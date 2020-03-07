@@ -1,53 +1,22 @@
 #EXTM3U
-#EXTINF:-1,supersport 3
-http://iptv-line.com:7899/eltonjohn/0752590661/48743
-#EXTINF:-1,supersport 7
-http://iptv-line.com:7899/eltonjohn/0752590661/48739
-#EXTINF:-1,supersport 8
-http://iptv-line.com:7899/eltonjohn/0752590661/48738
-#EXTINF:-1,supersport 9
-http://iptv-line.com:7899/eltonjohn/0752590661/48737
-#EXTINF:-1,maisha magic east
-http://iptv-line.com:7899/eltonjohn/0752590661/55289
-#EXTINF:-1,mnet
-http://iptv-line.com:7899/eltonjohn/0752590661/55399
-#EXTINF:-1,mnet movies premiere
-http://iptv-line.com:7899/eltonjohn/0752590661/55394
-#EXTINF:-1,mnet plus 1
-http://iptv-line.com:7899/eltonjohn/0752590661/55402
-#EXTINF:-1,wwe superslam
-http://iptv-line.com:7899/eltonjohn/0752590661/55378
-#EXTINF:-1,MNET CITY
-http://iptv-line.com:7899/eltonjohn/0752590661/55414
+
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 1
-https://1151586843.rsc.cdn77.org/1151586843/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 2
-https://1786844004.rsc.cdn77.org/1786844004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/azam_hd1d.png" group-title="Tanzania",Azam Sports
-https://1346042398.rsc.cdn77.org/1346042398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/thumb/c/124/70/channels/channel_image1508329528.png" group-title="Tanzania",Azam Sports 2
-https://1314348974.rsc.cdn77.org/1314348974/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1569411147.jpg" group-title="Tanzania",Azam UTV
 https://1886448880.rsc.cdn77.org/1886448880/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://startv.co.tz/startvweb//templates/startvtemplate/images/startv.png" group-title="Tanzania",Star TV
-https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/936a64de8b1d4b46bfcee7bd230bfd37/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1445504028.jpg"group-title="Tanzania",ZBC 2 
-https://1367936109.rsc.cdn77.org/1367936109/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DYLftywVQAIHKS4.jpg" group-title="Tanzania",Wasafi tv
-http://ms-azure-video.gslb.startimestv.com/live/Wasafi_968_500_320x240_196856/playlist.m3u8
 #EXTINF:-1,sinema zetu
-https://1019673320.rsc.cdn77.org/1019673320/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2157900.png" group-title="Tanzania",TBC 1
-http://ms-azure-video.gslb.startimestv.com/live/TBC_1_908_500_480x360_194046/playlist.m3u8
 #EXTINF:-1,channel ten
 http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
 #EXTINF:-1,STARTV E
-Https://8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com/out/v1/790a5751da5e481a95c245b29c325e5f/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/12/AMCSlogo.jpg" group-title="Entertainment",Africa Movie Channel Series
-https://1043645968.rsc.cdn77.org/1043645968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2016/01/AMC.jpg" group-title="Entertainment",Africa Movie Channel
-https://1117758083.rsc.cdn77.org/1117758083/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="Entertainment",E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Entertainment",Fashion TV
@@ -57,7 +26,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Entertainment",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png" group-title="Entertainment",Fashion Box
-https://1575390972.rsc.cdn77.org/1575390972/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="Entertainment",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOX.us.png" group-title="Entertainment",FOX
@@ -81,11 +49,8 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
 #EXTINF:-1,E ENTAIRNMENT
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1,sony entairnment
-http://1959377946.rsc.cdn77.org/1959377946/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony max
-http://1132864118.rsc.cdn77.org/1132864118/index.m3u8
 #EXTINF:-1,Colors
-http://1784075063.rsc.cdn77.org/1784075063/index.m3u8#EXTINF:-1,MBC 2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 #EXTINF:-1,MBC 3
 http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
