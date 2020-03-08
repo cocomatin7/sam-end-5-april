@@ -1,5 +1,47 @@
 #EXTM3U
+#EXTINF:-1,beinsport 1 sd
+http://vvn.neoredi.com/iptv/ch8111?code=103131497823984&key=13249
+#EXTINF:-1,beinsport 2 sd
+http://vvn.neoredi.com/iptv/ch8112?code=103131497823984&key=63339
+#EXTINF:-1,beinsport 3
+http://vvn.neoredi.com/iptv/ch8113?code=103131497823984&key=49878
+#EXTINF:-1,beinsport 4 sd
+http://vvn.neoredi.com/iptv/ch8114?code=103131497823984&key=14962
+#EXTINF:-1,beinsport 5 sd
+http://vvn.neoredi.com/iptv/ch8115?code=103131497823984&key=47227
+#EXTINF:-1,beinsport 6 sd
+http://vvn.neoredi.com/iptv/ch8116?code=103131497823984&key=41121
+#EXTINF:-1,beinsport 7 sd
+http://vvn.neoredi.com/iptv/ch8116?code=103131497823984&key=41121
+#EXTINF:-1,beinsport 8 sd
+http://vvn.neoredi.com/iptv/ch8118?code=103131497823984&key=40631
+#EXTINF:-1,beinsport 9 sd
+http://vvn.neoredi.com/iptv/ch8510?code=103131497823984&key=53286
+#EXTINF:-1,beinsport 10 sd
+http://vvn.neoredi.com/iptv/ch8511?code=103131497823984&key=40509
+#EXTINF:-1,beinsport 11 HD
+http://vvn.neoredi.com/iptv/ch512?code=103131497823984&key=62995
+#EXTINF:-1,INFO SPORTS HD
+http://vvn.neoredi.com/iptv/ch250?code=103131497823984&key=56800
+#EXTINF:-1,RMC Sport 1 HD
+http://vvn.neoredi.com/iptv/ch255?code=103131497823984&key=26369
+#EXTINF:-1,RMC Sport 2 HD
+http://vvn.neoredi.com/iptv/ch253?code=103131497823984&key=49424
+#EXTINF:-1,RMC Sport 3 HD HD
+http://vvn.neoredi.com/iptv/ch254?code=103131497823984&key=63994
+#EXTINF:-1,RMC Sport 4 HD
+http://vvn.neoredi.com/iptv/ch243?code=103131497823984&key=41491
+#EXTINF:-1,BT Sport 1
+http://vvn.neoredi.com/iptv/ch1828?code=103131497823984&key=15416
+#EXTINF:-1,BT Sport 2 HD
+http://vvn.neoredi.com/iptv/ch1829?code=103131497823984&key=45329
+#EXTINF:-1,BT Sport 3 HD
+http://vvn.neoredi.com/iptv/ch1830?code=103131497823984&key=11598
+#EXTINF:-1,ITV 1  
+http://vvn.neoredi.com/iptv/ch1805?code=103131497823984&key=28232
 
+
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" gro
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 1
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 2
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/azam_hd1d.png" group-title="Tanzania",Azam Sports
