@@ -23,6 +23,10 @@ http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48737
 http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48736
 #EXTINF:-1,supersport MAXIMO
 http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48735
+#EXTINF:-1,etv
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/55346
+#EXTINF:-1,etv extra
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/55347
 #EXTINF:-1,Mnet city
 http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/55414
 #EXTINF:-1,Mnet action plus
