@@ -505,8 +505,10 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
 #EXTINF:-1,E ENTAIRNMENT
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1,sony entairnment
+http://ndasat.net:8000/live/493093298206867/1593574628/6901.m3u8
 #EXTINF:-1,Sony max
-#EXTINF:-1,Colors
+#EXTINF:-1,Colors uk
+http://ndasat.net:8000/live/493093298206867/1593574628/6876.m3u8 
 #EXTINF:-1,E ENTAIRNMENT
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1,sony entairnment
@@ -551,12 +553,17 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Entertainment",World Fashion TV 
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1,ZEE EFC
+http://ndasat.net:8000/live/493093298206867/1593574628/6880.m3u8
 #EXTINF:-1,Zee TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1,&TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
+#EXTINF:-1,MUSIC INDIA
+http://ndasat.net:8000/live/493093298206867/1593574628/6845.m3u8
+#EXTINF:-1,Zee TV HD
 
-
+#EXTINF:-1,Zee TV HD
 
 #EXTINF:-1 tvg-logo="https://cdn.nation.co.ke/assets/ntv/kenya/ntv-ke-logo.png" group-title="Kenya",NTV Kenya
 #EXTINF:-1 tvg-logo="https://www.standardmedia.co.ke/ktnhome/images/logo.png" group-title="Kenya",KTN Home
@@ -863,13 +870,24 @@ http://185.180.12.34:8080/SK10/video.m3u8?token=test
 https://gma2.blab.email/acc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:71,BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
 
 #EXTINF:-1,Sony Ten 1
 http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+https://sony247channels.akamaized.net/hls/live/2004807/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1,Sony Ten 2
 http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1,Sony Ten 3
 http://51.15.8.16:8081/lolind2/sonyten3/playlist.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1,Sony six
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1, D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,ten 1
