@@ -146,6 +146,25 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",NASA
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:1,Pop Life TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
+#EXTINF:10,MyTV Cebu
+http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+#EXTINF:11,ITV UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+#EXTINF:13,ABC
+http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=800000.m3u8
+#EXTINF:14,CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:15,NBC
+http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:17,The CW
+http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=800000.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",IN Star Sports Hindi
 http://51.15.8.16:8081/ind1live/starsports1/playlist.m3u8
